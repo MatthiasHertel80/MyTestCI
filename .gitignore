@@ -1,0 +1,8 @@
+**/*.log
+**/*.xunit
+**/*.pack
+**/*.tar
+**/Objects
+**/RTE/_**
+/tmp
+/out
